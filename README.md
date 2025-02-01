@@ -1,7 +1,7 @@
 # Spam Mail Prediction
 
 ## 📌 Project Description
-Spam Mail Prediction is a machine learning project that classifies emails as either **Spam** or **Ham (Not Spam)**. The model is trained on textual email data and uses Natural Language Processing (NLP) techniques to improve accuracy.
+Spam Mail Prediction is a machine learning project that classifies emails as either **Spam** or **Ham (Not Spam)**. The model is trained on textual email data and uses ML techniques to improve accuracy.
 
 ## 🔧 Technologies Used
 - Python
